@@ -1,6 +1,6 @@
 # UserCertAndroid14
 Magisk module to install user certificate in Android 14 (modify from [adguardcert](https://github.com/AdguardTeam/adguardcert))
-Remove so
+
 # Usage
 1. Install module in Magisk Manager
 2. Install CA to device
